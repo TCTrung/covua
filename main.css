@@ -1,0 +1,17 @@
+table {
+    border : 1px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+    background-color:white;
+}
+td,th {
+    border : 1px solid black;
+}
+.aa {
+    background-color: darkorange;
+    text-align: center;
+}
+.ab {
+    background-color: black;
+}
